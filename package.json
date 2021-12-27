@@ -1,0 +1,20 @@
+{
+  "name": "ts-lesson1-hw1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "lite-server",
+    "build": "tsc -w"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "lite-server": "^2.6.1",
+    "typescript": "^4.5.4"
+  },
+  "dependencies": {
+    "bootstrap": "^5.1.3"
+  }
+}
